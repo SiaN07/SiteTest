@@ -1,0 +1,16 @@
+{
+  "name": "sitemate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Siantayo",
+  "license": "ISC"
+}
